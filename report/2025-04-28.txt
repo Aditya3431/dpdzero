@@ -1,4 +1,0 @@
-Agent Summary for 2025-04-28
-Top Performer: AgentFirst3 AgentLast3 (38% connect rate)
-Total Active Agents: 17
-Average Duration: 7.5 min

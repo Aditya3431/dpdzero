@@ -1,4 +1,3 @@
-code structure 
 📦 Project Root
 ├── 📁 data/                          # Stores all data files
 │   ├── 📁 loaded/                   # Raw loaded data
@@ -30,4 +29,3 @@ code structure
 │
 ├── 📁 logs/                         # Contains logs of the program
 │   └── *.log
-
